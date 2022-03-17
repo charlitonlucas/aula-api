@@ -1,0 +1,30 @@
+[
+
+    {
+
+        "id": 1,
+        "artista": "Tagore",
+        "album":"pineal",
+        "anoLancamento":"2016",
+        "favorito": true
+    },
+    {
+
+        "id": 2,
+        "artista": "otto",
+        "album":"ottomatopeia",
+        "anoLancamento":"2017",
+        "favorito": false
+    },
+    {
+
+        "id": 2,
+        "artista": "otto",
+        "album":"ottomatopeia",
+        "anoLancamento":"2017",
+        "favorito": false
+    }
+
+
+
+]
